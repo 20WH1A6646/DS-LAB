@@ -29,3 +29,19 @@ void main() {
 	  }
 	}
 }
+
+/* OUTPUT:
+
+Enter number of vertices:4
+
+ Enter the adjacency matrix:
+2 9 6 3
+
+
+ 1->2
+
+ 1->3
+
+ 1->4
+
+*/
